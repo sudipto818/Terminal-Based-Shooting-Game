@@ -1,11 +1,11 @@
 
 # Project Title
 
-🎮 Clash Of Titans 🎮
+🎮 C++ Terminal Based Space Shooter 🎮
 
 
 ##  📖 Basic introduction of the game
-**Clash of Titans** is a console-based shooting game written in **C++**.  
+**C++ Terminal Based Space Shooter** is a console-based shooting game written in **C++**.  
 You play as a launcher at the bottom of the screen that can move horizontally and shoot bullets or explosives to destroy enemy planes.  
 
 The game features:
